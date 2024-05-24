@@ -33,7 +33,7 @@ $admin = $stmt->fetch();
             <?php elseif (isset($error)): ?>
                 <div class="layui-bg-red layui-text"><?php echo $error; ?></div>
             <?php endif; ?>
-            <form class="layui-form" action="change_credentials.php" method="post">
+            <form class="layui-form" action="change.php" method="post">
                 <div class="layui-form-item">
                     <label class="layui-form-label">账号</label>
                     <div class="layui-input-block">
