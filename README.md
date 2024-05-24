@@ -3,35 +3,31 @@
 #### 介绍
 软件分享界面（应用商城），带后台，可以上传文件，分享文件
 
-#### 软件架构
-软件架构说明
-
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  上传到服务器
+2.  安装程序：域名/install.php
+3.  默认后台地址为admin
+4.  账号密码：admin/123456
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  自己摸索吧
+2.  本程序后台建议用电脑操作，对手机用户并不友好
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  云猫
 
+项目地址https://gitee.com/ximami/software/
 
-#### 特技
+演示站：https://czzu.cn/software/
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![1](%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-05-24%20105609.png)
+
+![2](%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-05-24%20105626.png)
+
+![3](%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-05-24%20105647.png)
+
+![4](%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-05-24%20105659.png)
